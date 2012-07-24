@@ -1,0 +1,48 @@
+{
+    "pageSetup" : {
+        "size": "letter",
+        "firstTemplate": "coverPage"
+    },
+    "pageTemplates": {
+        "coverPage": {
+            "frames": [
+                ["20%", "0cm", "60%", "100%"]
+            ]
+        }
+    },
+    "embeddedFonts": [["OldStandard-Regular.ttf", "OldStandard-Bold.ttf", "OldStandard-Italic.ttf", "OldStandard-Bold.ttf"]],
+    "fontsAlias" : {
+        "stdFont": "OldStandard-Regular",
+        "stdBold": "OldStandard-Bold",
+        "stdItalic": "OldStandard-Italic"
+    },
+    "styles" :{
+        "normal" : {
+            "fontSize": 10
+        },
+        "blockquote": {
+            "alignment": "TA_CENTER",
+            "fontName": "stdItalic",
+            "spaceAfter": 80
+        },
+        "title": {
+            "fontSize": 24
+        },
+        "heading1": {
+            "fontSize": 16,
+            "spaceBefore": 40
+        },
+        "bullet-list": {
+            "spaceAfter": 10
+        },
+        "note": {
+            "borderPadding": [3,3,3,3],
+            "backColor": "white"
+        },
+        "note-heading": {
+            "parent": "heading6",
+            "spaceAfter": 0,
+            "spaceBefore": 0
+        }
+    }
+}
