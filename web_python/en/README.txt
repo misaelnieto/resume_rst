@@ -1,8 +1,12 @@
-Noe Nieto - Electronics Engineer
+Noe Nieto - Software Engineering
 ================================
 
-    Experienced engineer in electrical instrumentation and Data Acquisition, 
-    digital video, web development, databases and Linux servers.
+  Noe Nieto is an Electronics Engineer with 5 years of experience in
+  software development with Python, PHP, HTML, CSS, Javascript,
+  jQuery, Linux, MySQL and PostgreSQL. He is helping companies in
+  Mexico and Argentina to develop beautiful and functional web
+  applications.
+
 
 Personal information
 --------------------
@@ -33,6 +37,77 @@ Find out more about me in the following web sites
 .. footer::
 
    Page ###Page###
+
+Skills
+------
+
+- **Software libraries and frameworks**
+
+  - *For web development*
+    - Plone, Zope and Grok
+    - Pyramid
+    - Django
+    - CakePHP
+    - JQuery, jQueryTools, jQueryUI
+    - CoffeeScript
+
+  - *For databases*
+    - SQL, MySQL and PostgreSQL.
+    - SQLAlchemy, ZODB
+
+  - *For linux applications*
+    - Gstreamer
+    - Gtk+ / PyGtk
+
+- **Testing and automated testing**
+
+  - *For python applications* - I've used the following frameworks for
+    testing my applications: Unittest, zope.testing, zope.app.testing,
+    plone.app.testing and Selenium
+
+- **Programming, scripting and markup Languajes**
+
+  - *High proficiency*
+    - Python, C, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
+
+  - *Medium proficiency*
+    - C++, Java, Matlab, Assembler (Mainly for PICs and 8051).
+
+  - *Low proficiency*
+    - C#, Perl, .NET, Ruby.
+
+- **Development Tools**
+
+  - Compilers and build systems
+    - zc.builsout, Python setuptools, GNU Makefile and autotools.
+
+  - Automated testing
+    - Python unittest, plone.app.testing, zope.testing, Selenium and Jenkins.
+
+  - Source Code Management tools
+    - Git, Mercurial, Bazaar and Subversion.
+
+- **Linux server administration**
+
+  - More than 10 years as daily desktop machine, and 6+ years as linux
+    sysadmin for web servers.
+
+  - Proficient with Ubuntu, Debian, Fedora, CentOS, RHEL and Amazon's AMI.
+
+  - Confiuration and management of different opensource RDBMS like
+    MySQL, PostgreSQL, SQLite, and ZODB. Sizes range from 1mb to 150
+    GB.
+
+- **Electronics Engineering**
+
+  - Data acquisition systems (Voltage, Current, Pressure, Fuel flow,
+    and Vibration).
+
+  - Experience with the following systems/brands: Dewetron/Dewesoft,
+    Scanivalve, LEM, B&K, Ectron and Ametek.
+
+  - Hardware platforms: NI PXI, Dewetron, Scanivalve, LDS Genesis.
+
 
 Education
 ---------
@@ -71,7 +146,7 @@ Education
     Open Source tools like Linux and Gstreamer.
 
   - Time span: Between August 2000 and December 2006. Thesis defense on
-    September 2012. Official Electronics Engineering degree is in progress.
+    September 2012.
 
 - **Universidad Popular Autónoma del Estado de Puebla** - *Computer programmer technician (diploma)*
 
@@ -108,7 +183,7 @@ Professional Experience
 
     - Time span: From April 2011 up to now.
 
-    - Location: Puebla, Mexico City, Mexicali, Guadalajara and Saltillo.
+  - Locations: Puebla, Mexico City, Mexicali, Guadalajara and Saltillo.
 
 - **iServices de México** - *Web/Python developer*
 
@@ -203,67 +278,4 @@ Training and conventions
 - **PyCON US 2009** - *March, Chicago, IL.*
 
   - Conference attendant and sprinter.
-
-Skills
-------
-
-- **Software libraries and frameworks**
-
-  - *For web development*
-    - Plone, Zope and Grok
-    - Pyramid
-    - Django
-    - CakePHP
-    - JQuery, jQueryTools, jQueryUI
-    - CoffeeScript
-
-  - *For databases*
-    - SQL, MySQL and PostgreSQL.
-    - SQLAlchemy, ZODB
-
-  - *For linux applications*
-    - Gstreamer
-    - Gtk+ / PyGtk
-
-- **Programming, scripting and markup Languajes**
-
-  - *High proficiency*
-    - Python, C, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
-
-  - *Medium proficiency*
-    - C++, Java, Matlab, Assembler (Mainly for PICs and 8051).
-
-  - *Low proficiency*
-    - C#, Perl, .NET, Ruby.
-
-- **Development Tools**
-
-  - Compilers and build systems
-    - zc.builsout, Python setuptools, GNU Makefile and autotools.
-
-  - Automated testing
-    - Python unittest, plone.app.testing, zope.testing, Selenium and Jenkins.
-
-  - Source Code Management tools
-    - Git, Mercurial, Bazaar and Subversion.
-
-- **Linux server administration**
-
-  - More than 10 years as daily desktop machine, and 6+ years as linux
-    sysadmin for web servers.
-
-  - Proficient with Ubuntu, Debian, Fedora, CentOS, RHEL and Amazon's AMI.
-
-  - Can configure and manage MySQL, PostgreSQL, SQLite, and ZODB. Sizes range
-    from 1mb to 150 GB.
-
-- **Electronics Engineering**
-
-  - Data acquisition systems (Voltage, Current, Pressure, Fuel flow,
-    and Vibration).
-
-  - Experience with the following systems/brands: Dewetron/Dewesoft,
-    Scanivalve, LEM, B&K, Ectron and Ametek.
-
-  - Hardware platforms: NI PXI, Dewetron, Scanivalve, LDS Genesis.
 
