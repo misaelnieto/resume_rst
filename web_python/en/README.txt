@@ -14,13 +14,13 @@ Personal information
 Full name:
     Noe Misael Nieto Arroyo
 Age:
-    30
+    31
 Phone (mobile):
-    +52 (222) 5659856
+    +52 (686) 5477677
 E-mail:
     nnieto@noenieto.com
 Nationality:
-    - Mexican (More personal information is available upon request)
+    - Mexican (Detailed information is available upon request)
     - Can travel to the United States with Visa B1/B2
 Find out more about me in the following web sites
     - My personal blog - http://blog.noenieto.com
@@ -48,7 +48,7 @@ Skills
     - Pyramid
     - Django
     - CakePHP
-    - JQuery, jQueryTools, jQueryUI
+    - JQuery, jQueryTools, jQueryUI, AngularJS
     - CoffeeScript
 
   - *For databases*
@@ -79,10 +79,10 @@ Skills
 - **Development Tools**
 
   - Compilers and build systems
-    - zc.builsout, Python setuptools, GNU Makefile and autotools.
+    - zc.buildout, Python setuptools, GNU Makefile and autotools.
 
   - Automated testing
-    - Python unittest, plone.app.testing, zope.testing, Selenium and Jenkins.
+    - Python unittest, plone.app.testing, zope.testing, PhantomJS and JasmineJS.
 
   - Source Code Management tools
     - Git, Mercurial, Bazaar and Subversion.
@@ -97,6 +97,8 @@ Skills
   - Confiuration and management of different opensource RDBMS like
     MySQL, PostgreSQL, SQLite, and ZODB. Sizes range from 1mb to 150
     GB.
+
+  - DevOps: Amazon Web Services, Fabric (python).
 
 - **Electronics Engineering**
 
