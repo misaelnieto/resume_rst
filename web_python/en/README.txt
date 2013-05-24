@@ -1,7 +1,7 @@
 Noe Nieto - Software Engineering
 ================================
 
-  I am a full stack web developer that enjoys developing beautiful and
+  I am a full stack web developer who enjoys developing beautiful and
   functional web applications with Python, HTML, CSS, Javascript. I
   feel very comfortable working with Linux on the command line.
 
@@ -67,7 +67,7 @@ Skills
   - *High proficiency*
     - Python, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
 
-  - *Lesser proficiency* - I haven't used them within the last 24 motnhs.
+  - *Lesser proficiency* - I haven't used them within the last 24 months.
     - C, C#, Java, Matlab, Perl, .NET, Ruby, Assembler for microcontrollers.
 
 - **Development Tools**
@@ -107,7 +107,7 @@ Skills
 Professional Experience
 -----------------------
 
-*Proof of employment and references can be requested personally.*
+
 
 - **NNieto Consulting Services** - *Freelancer*
 
@@ -143,7 +143,7 @@ Professional Experience
       have offices in Mexico City, Colombia, Argentina and Spain. I
       worked with them to port their e-learning platform from Plone 3
       to Plone 4. I also gave them Plone development trainning courses
-      for their in-site developers. From March 2011 unitl May 2012.
+      for their in-site developers. From March 2011 until May 2012.
       *Website*: http://libroweb.alfaomega.com.mx/
 
     - **Universidad Pedagógica Nacional**. Plone
@@ -239,7 +239,7 @@ Education
     covers the specification, application and extendibility of data
     acquisition systems.
 
-  - Time span: Three weeks on September 2006.
+  - Time span: Three weeks in September 2006.
 
 - **Instituto Tecnológico de Puebla** - *Electronics Engineering*
 
