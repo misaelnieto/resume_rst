@@ -1,11 +1,9 @@
 Noe Nieto - Software Engineering
 ================================
 
-  Noe Nieto is an Electronics Engineer with 5 years of experience in
-  software development with Python, PHP, HTML, CSS, Javascript,
-  jQuery, Linux, MySQL and PostgreSQL. He is helping companies in
-  Mexico and Argentina to develop beautiful and functional web
-  applications.
+  I am a full stack web developer that enjoys developing beautiful and
+  functional web applications with Python, HTML, CSS, Javascript. I
+  feel very comfortable working with Linux on the command line.
 
 
 Personal information
@@ -23,9 +21,9 @@ Nationality:
     - Mexican (Detailed information is available upon request)
     - Can travel to the United States with Visa B1/B2
 Find out more about me in the following web sites
+    - My personal page - http://noenieto.com
     - My personal blog - http://blog.noenieto.com
     - LinkedIn Profile - http://www.linkedin.com/profile/view?id=84300665
-    - MasterBranch - https://masterbranch.com/tzicatl
     - GitHub - https://github.com/tzicatl
     - BitBucket - http://dev.noenieto.com/
     - Twitter - https://twitter.com/tzicatl
@@ -61,20 +59,16 @@ Skills
 
 - **Testing and automated testing**
 
-  - *For python applications* - I've used the following frameworks for
-    testing my applications: Unittest, zope.testing, zope.app.testing,
-    plone.app.testing and Selenium
+  - *For python applications* - Unittest, zope.testing, zope.app.testing,
+    plone.app.testing, nose, Selenium
 
 - **Programming, scripting and markup Languajes**
 
   - *High proficiency*
-    - Python, C, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
+    - Python, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
 
-  - *Medium proficiency*
-    - C++, Java, Matlab, Assembler (Mainly for PICs and 8051).
-
-  - *Low proficiency*
-    - C#, Perl, .NET, Ruby.
+  - *Lesser proficiency* - I haven't used them within the last 24 motnhs.
+    - C, C#, Java, Matlab, Perl, .NET, Ruby, Assembler for microcontrollers.
 
 - **Development Tools**
 
@@ -89,8 +83,7 @@ Skills
 
 - **Linux server administration**
 
-  - More than 10 years as daily desktop machine, and 6+ years as linux
-    sysadmin for web servers.
+  - 6+ years as linux admin for web servers. 10+ as regular Linux user.
 
   - Proficient with Ubuntu, Debian, Fedora, CentOS, RHEL and Amazon's AMI.
 
@@ -111,51 +104,6 @@ Skills
   - Hardware platforms: NI PXI, Dewetron, Scanivalve, LDS Genesis.
 
 
-Education
----------
-
-*Proof of achievements can be requested personally.*
-
-- **Instituto Tecnológico de Mexicali** - *Master's degree in Electronics
-  Engineering*
-
-  - Only first two semesters.
-
-  - Time span: Between August 2007 and June 2008.
-
-- **Arizona State University**. *Data Acquisition training seminar by JACMET
-  group*
-
-  - This course is part of a series that leads to a JACMET Engineering
-    Instrumentation Certificate. This course takes a practical viewpoint and
-    covers the specification, application and extendibility of data
-    acquisition systems.
-
-  - Time span: Three weeks on September 2006.
-
-- **Instituto Tecnológico de Puebla** - *Electronics Engineering*
-
-  - Instrumentation and control specialization.
-
-  - Kalman filter simulator as internship project on “Centro de Ingenieria” -
-    INAOE.
-
-  - Installation of a 8-node cluster in the parallel computing research
-    laboratory of the Instituto Tecnologico de Puebla as social service.
-
-  - My Thesis *"Sistema de Vigilancia con video sobre TCP/IP"* demostrates the
-    possibility to build surveillance systems by using only Free Software and
-    Open Source tools like Linux and Gstreamer.
-
-  - Time span: Between August 2000 and December 2006. Thesis defense on
-    September 2012.
-
-- **Universidad Popular Autónoma del Estado de Puebla** - *Computer programmer technician (diploma)*
-
-  - Proficient in C, Basic and Pascal.
-
-  - Time span: 1997 to 2000
-
 Professional Experience
 -----------------------
 
@@ -163,29 +111,55 @@ Professional Experience
 
 - **NNieto Consulting Services** - *Freelancer*
 
-  - This is my own company, I provide software development services and
-    training. On this project I've worked with different companies and
-    intitutions across the country and abroad.
+  - This is my own business; I started it on April 2011. I provide
+    software development services and training. I've worked with
+    different companies and intsitutions in Mexico and Argentina.
 
-    - WAM - Ready2Fill (http://Ready2Fill.com/). Python training course for
-      web development.
+    - **Homeviva**, an Argentinian startup in the construction
+      industry. My role here is as a full stack developer. *Key
+      technologies*: Linux, nginx, Python, Grok (first iterations
+      of the project), Pyramid, PostgreSQL, JSON and AngularJS. I've
+      been working for them since August 2011. *Website*:
+      http://www.homeviva.com.ar
 
-    - Editorial AlfaOmega (http://libroweb.alfaomega.com.mx/). Systems
-      engineering and development.
+    - **Centro de Psiquiatría y Psicología Holokinética** (CPH). CPH is
+      based in Mexicali, Baja California, Mexico. It is a non-profit
+      organization that promotes Holokinetic Psychology and Unitary
+      Perception. I've been helping them to build their E-commerce
+      site for books, audios and DVD's. *Key technologies*: Linux,
+      Plone (First version of the site), Django (a new version of the
+      site, due in June 2013), PayPal. I've been working with them
+      since March 2010. 
+      *Website*: http://www.holokinesislibros.com/
 
-    - Centro de Psiquiatría y Psicología Holokinética
-      (http://www.holokinesislibros.com/). Research, design, development and 
-      comissioning of e-commerce site for books, audios and DVD's.
+    - **Venddo**, a Mexican Startup based in Mexico City. They analyze
+      information in social networks to identify profiles of potential
+      customers. I've been working for as a backend developer since
+      March 2013. *Key technologies*: Python, SQLAlchemy, twitter API.
+      *Website*: http://venddo.com/
 
-    - Universidad Pedagógica Nacional (http://www.upn.mx/). Systems
-      administration and consulting.
+    - **AlfaOmega Grupo Editor**. AlfaOmega is one of the
+      biggest publishers of technical books in Latin America. They
+      have offices in Mexico City, Colombia, Argentina and Spain. I
+      worked with them to port their e-learning platform from Plone 3
+      to Plone 4. I also gave them Plone development trainning courses
+      for their in-site developers. From March 2011 unitl May 2012.
+      *Website*: http://libroweb.alfaomega.com.mx/
 
-    - HomeViva, an Argentinian startup (http://www.homeviva.com). Systems
-      engineering, research, development and operation.
+    - **Universidad Pedagógica Nacional**. Plone
+      migration consultant. May 2011. *Website*: http://www.upn.mx/
 
-    - Time span: From April 2011 up to now.
+    - **WAM - Ready2Fill**. Based on Oaxaca,
+      Mexico, Ready2Fill develops business solutions with free
+      software. I wrote a Python training course for their team of
+      engineers so they could start developing their solutions with
+      Django and Python. October 2011. *Website*: http://Ready2Fill.com/
 
-  - Locations: Puebla, Mexico City, Mexicali, Guadalajara and Saltillo.
+    - **Insignia Diseño**. Design agency from San Luis Potosí, México. I
+      developed their portfolio gallery. *Key technologies*: CakePHP,
+      jQuery, jQueryTools.
+      *Website*: http://insigniadiseno.com/portafolio/      
+
 
 - **iServices de México** - *Web/Python developer*
 
@@ -247,15 +221,63 @@ Professional Experience
 
   - Location: Puebla.
 
-Training and conventions
+Education
+---------
+
+- **Instituto Tecnológico de Mexicali** - *Master's degree in Electronics
+  Engineering*
+
+  - Only first two semesters.
+
+  - Time span: Between August 2007 and June 2008.
+
+- **Arizona State University**. *Data Acquisition training seminar by JACMET
+  group*
+
+  - This course is part of a series that leads to a JACMET Engineering
+    Instrumentation Certificate. This course takes a practical viewpoint and
+    covers the specification, application and extendibility of data
+    acquisition systems.
+
+  - Time span: Three weeks on September 2006.
+
+- **Instituto Tecnológico de Puebla** - *Electronics Engineering*
+
+  - Instrumentation and control specialization.
+
+  - Kalman filter simulator as internship project on “Centro de Ingenieria” -
+    INAOE.
+
+  - Installation of a 8-node cluster in the parallel computing research
+    laboratory of the Instituto Tecnologico de Puebla as social service.
+
+  - My Thesis *"Sistema de Vigilancia con video sobre TCP/IP"* demostrates the
+    possibility to build surveillance systems by using only Free Software and
+    Open Source tools like Linux and Gstreamer.
+
+  - Time span: Between August 2000 and December 2006. Thesis defense on
+    September 2012.
+
+- **Universidad Popular Autónoma del Estado de Puebla** - *Computer programmer technician (diploma)*
+
+  - Proficient in C, Basic and Pascal.
+
+  - Time span: 1997 to 2000
+
+
+Training and Conferences
 ------------------------
+
+- **X Jornada Académica, Social y Deportiva 2012** - *Nov. 12th-16th, Instituto Tecnológico de Oaxaca, Mexico*
+
+  - 20 hour python course for students of Software Engineering.
 
 - **Seminario de Aplicaciones de las Tecnologías de la Información y Comunicaciones** - 
   *Sept. 3rd-7th, Instituto Tecnológico de Puebla, Mexico*
 
   - Speaker. One 45 minute talk about basic multimedia applications with GStreamer.
  
-  - Trainer. Five-hour Python course for newcomers. Attendants included students
+  - Trainner. Five-hour Python course for newcomers. Attendants included students
     and teachers of the IT Academia of the ITP.
 
 - **PyCON US 2012** - *March 7th-15th, Santa Clara, CA.*
