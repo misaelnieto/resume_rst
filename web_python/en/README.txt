@@ -12,7 +12,7 @@ Personal information
 Full name:
     Noe Misael Nieto Arroyo
 Age:
-    31
+    32
 Phone (mobile):
     +52 (686) 5477677
 E-mail:
@@ -23,7 +23,7 @@ Nationality:
 Find out more about me in the following web sites
     - My personal page - http://noenieto.com
     - My personal blog - http://blog.noenieto.com
-    - LinkedIn Profile - http://www.linkedin.com/profile/view?id=84300665
+    - LinkedIn Profile - http://j.mp/TBCUkr
     - GitHub - https://github.com/tzicatl
     - BitBucket - http://dev.noenieto.com/
     - Twitter - https://twitter.com/tzicatl
@@ -41,21 +41,21 @@ Skills
 
 - **Software libraries and frameworks**
 
-  - *For web development*
-    - Plone, Zope and Grok
-    - Pyramid
-    - Django
-    - CakePHP
-    - JQuery, jQueryTools, jQueryUI, AngularJS
-    - CoffeeScript
+  - *Web development*
+    - Django, Pyramid, Flask (Proficient)
+    - Plone, Zope, Bluebream, Grok (Proficient)
+    - JQuery, jQueryTools, jQueryUI, AngularJS (Proficient)
+    - CakePHP, Laravel (Novice)
+    - ASP.NET MVC (Novice)
 
   - *For databases*
-    - SQL, MySQL and PostgreSQL.
-    - SQLAlchemy, ZODB
+    - SQL Server, MySQL and PostgreSQL.
+    - SQLAlchemy, ZODB (Proficient)
+    - Entity Framework (Novice)
 
   - *For linux applications*
     - Gstreamer
-    - Gtk+ / PyGtk
+    - Gtk+ / PyGtk / PyGI
 
 - **Testing and automated testing**
 
@@ -65,10 +65,10 @@ Skills
 - **Programming, scripting and markup Languajes**
 
   - *High proficiency*
-    - Python, JavaScript, HTML, XML, CSS, Bash, JSON, XSLT, ZCML, PHP
+    - Python, JavaScript, HTML, XML, CSS, Bash, JSON, ZCML, PHP
 
-  - *Lesser proficiency* - I haven't used them within the last 24 months.
-    - C, C#, Java, Matlab, Perl, .NET, Ruby, Assembler for microcontrollers.
+  - *A bit of rust* - I haven't used them within the last 24 months.
+    - C, C#, Java, Matlab, Perl, .NET, Ruby, Assembler, XSLT.
 
 - **Development Tools**
 
@@ -83,9 +83,8 @@ Skills
 
 - **Linux server administration**
 
-  - 6+ years as linux admin for web servers. 10+ as regular Linux user.
-
-  - Proficient with Ubuntu, Debian, Fedora, CentOS, RHEL and Amazon's AMI.
+  - 10 years as linux admin (web servers): Ubuntu, Debian, Fedora, CentOS,
+    RHEL and Amazon's AMI.
 
   - Confiuration and management of different opensource RDBMS like
     MySQL, PostgreSQL, SQLite, and ZODB. Sizes range from 1mb to 150
@@ -94,25 +93,29 @@ Skills
   - DevOps: Amazon Web Services, Fabric (python).
 
 - **Electronics Engineering**
-
-  - Data acquisition systems (Voltage, Current, Pressure, Fuel flow,
-    and Vibration).
-
-  - Experience with the following systems/brands: Dewetron/Dewesoft,
-    Scanivalve, LEM, B&K, Ectron and Ametek.
-
-  - Hardware platforms: NI PXI, Dewetron, Scanivalve, LDS Genesis.
+    I used to be a hardware guy. I did fun stuff 
+    with data acquisition systems (Voltage, Current, Pressure, Fuel flow,
+    and Vibration) and some expensive toys from these manufacturers: Dewetron/Dewesoft,
+    Scanivalve, LEM, B&K, Ectron and Ametek, NI PXI, LDS Genesis.
 
 
 Professional Experience
 -----------------------
 
+- **Valutech Outsourcing S.A. de C.V.** - *Sysadmin/DBA*
 
+  - Started here around September 2013.
+
+  - Valutech has +10000 technicians that produce a lot of data. I work on the 
+    data center where I tackle Linux problems. But I've also been doing some DBA work with SQL 
+    Server. Typical database size is a few hundred GigaBytes.
 
 - **NNieto Consulting Services** - *Freelancer*
 
-  - This is my own business; I started it on April 2011. I provide
-    software development services and training. I've worked with
+  - This used to be my main business; Now it's only part time. But eventually
+    I might come back to freelancing.
+
+  - I started it on April 2011. I provided software development services and training. I worked with
     different companies and intsitutions in Mexico and Argentina.
 
     - **Homeviva**, an Argentinian startup in the construction
