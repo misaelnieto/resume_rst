@@ -30,7 +30,7 @@
         },
         "heading1": {
             "fontSize": 16,
-            "spaceBefore": 40
+            "spaceBefore": 20
         },
         "bullet-list": {
             "spaceAfter": 10
