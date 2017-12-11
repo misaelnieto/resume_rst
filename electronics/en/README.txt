@@ -60,14 +60,14 @@ Education
 
   - Instrumentation and control specialization.
 
-  - Kalman filter simulator as internship project on “Centro de Ingenieria” -
+  - Kalman filter simulator as internship project in “Centro de Ingenieria” -
     INAOE.
 
   - Installation of a 8-node cluster in the parallel computing research
     laboratory of the Instituto Tecnologico de Puebla as social service.
 
   - My Thesis *"Sistema de Vigilancia con video sobre TCP/IP"* demostrates the
-    possibility to build surveillance systems by using only Free Software and
+    possibility of building surveillance systems by using only Free Software and
     Open Source tools like Linux and Gstreamer.
 
   - Time span: Between August 2000 and December 2006. Thesis defense on
