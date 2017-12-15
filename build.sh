@@ -5,3 +5,5 @@
 #whatever else ;)
 rst2pdf -s styles.json --font-path fonts/ electronics/en/README.txt -o electronics/en/Resume\ -\ Noe\ Nieto.pdf
 rst2pdf -s styles.json --font-path fonts/ web_python/en/README.txt -o web_python/en/Resume\ -\ Noe\ Nieto.pdf
+rst2pdf --config config.cfg teaching/RESUME.rst -o teaching/Resume-Noe-Nieto.pdf
+

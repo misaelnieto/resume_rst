@@ -1,12 +1,14 @@
 {
     "pageSetup" : {
         "size": "letter",
-        "firstTemplate": "coverPage"
+        "firstTemplate": "curriculum"
     },
     "pageTemplates": {
-        "coverPage": {
+        "curriculum": {
             "frames": [
-                ["20%", "0cm", "60%", "100%"]
+                ["0%", "70%", "100%", "30%"],
+                ["0cm", "0cm", "49%", "70%"],
+                ["51%", "0cm", "49%", "70%"]
             ]
         }
     },
@@ -17,6 +19,9 @@
         "stdItalic": "OldStandard-Italic"
     },
     "styles" :{
+        "abstract" : {
+            "alignment": "TA_CENTER"
+        },
         "normal" : {
             "fontSize": 10
         },

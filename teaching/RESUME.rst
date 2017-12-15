@@ -1,33 +1,34 @@
 Noe Misael Nieto Arroyo
 =======================
 
-Mexicali B.C. | (686) 547 7677
-Personal page: http://www.noenieto.com |  eMail: nnieto@noenieto.com 
+.. header::
 
+  http://www.noenieto.com/ | Mexicali B.C. | (686) 547 7677 | nnieto@noenieto.com
 
-Summary
--------
+I have a bachelor's degree in Electronics Engineering and I expect to earn a
+Master's degree in engineering by June 2018. As Engineer I've worked with data
+acquisition and idustrial instrumentation. Then I pursued a career as Software
+Engineering working as SysAdmin, backend & frontend developer, and DBA.
+During the last 10+ years I've been working almost exclusively with FLOSS
+software such as Linux, Python, Django, JavaScript, jQuery, PHP, PostgreSQL,
+MySql and SQLite, among others, but I also know my way around the Windows/SQL
+Server/ASP.net stack.      
 
-Noe Nieto is an Electronics Engineer graduated from Instituto Tecnológico de Puebla.
+In my spare time I take care of some of my side projects. Also, I enjoy teching Python to whoever is interested.
 
-As an engineer he has been involved in roles related to Data Aquisition and
-industrial instrumentation. For the past 10 years pursued a career as software
-engineer in the internet/web industry. His roles include backend, frontend,
-SysAdmin and DBA. During this time he has become proficient with technologies
-linke Linux, Python, Django, JavaScript, jQuery, PHP, SQL Server, PostgreSQL,
-MySql and SQLite, among others. As freelance, he enjoys teching Python to
-interested profesionals.
+Education
+---------
 
+* **June 2018**; Master's degree in Engineering, UABC Mexicali. *Estudio
+  experimental y vía   simulación de los materiales para celdas solares de
+  tercera generación*.
 
-Skills
-------
+- **September 2006**; Arizona State University; Data Acquisition training seminar by JACMET
+  group.
 
-- **Electronics Engineering**
-    I used to be a hardware guy. I did fun stuff 
-    with data acquisition systems (Voltage, Current, Pressure, Fuel flow,
-    and Vibration) and some expensive toys from these manufacturers: Dewetron/Dewesoft,
-    Scanivalve, LEM, B&K, Ectron and Ametek, NI PXI, LDS Genesis.
+- **September 2012**; Electronics Engineering, Instituto Tecnológico de Puebla.
 
+- **June 2000**; Computer Programmer technician diploma, Universidad Popular Autónoma del Estado de Puebla.
 
 Work Experience
 ---------------
@@ -153,26 +154,22 @@ troubleshoting Windows Server, Linux and SQL Server.
   - Time span: 2000 – 2005
 
   - Location: Puebla.
+    
 
-Education
----------
 
-- **Instituto de Ingeniería, UABC Mexicali”** - *Master's degree in
-Engineering*. Working with simulation software for Solar Cells. Expected
-graduation on June 2018.
+Skills
+------
 
-- **Instituto Tecnológico de Mexicali** - *Master's degree in Electronics
-  Engineering*: Only first two semesters. Between August 2007 and June 2008.
+- **Electronics Engineering**
+    I used to be a hardware guy. I did fun stuff 
+    with data acquisition systems (Voltage, Current, Pressure, Fuel flow,
+    and Vibration) and some expensive toys from these manufacturers: Dewetron/Dewesoft,
+    Scanivalve, LEM, B&K, Ectron and Ametek, NI PXI, LDS Genesis.
 
-- **Arizona State University**. *Data Acquisition training seminar by JACMET
-  group*. September 2006
 
-- **Instituto Tecnológico de Puebla** - *Electronics Engineering*.
-Instrumentation  and control specialization. Finished 2005. Graduated on
-September 2012.
 
-- **Universidad Popular Autónoma del Estado de Puebla** - *Computer programmer
-- **technician (diploma)*. 1997 to 2000
+
+
 
 
 Training and Conferences
