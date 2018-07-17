@@ -1,15 +1,25 @@
 {
     "pageSetup" : {
         "size": "letter",
-        "firstTemplate": "curriculum"
+        "firstTemplate": "curriculum",
+        "margin-top": "1.5cm",
+        "margin-bottom": "1.5cm",
+        "margin-left": "1.5cm",
+        "margin-right": "1.5cm",
+        "margin-gutter": "0cm",
+        "spacing-header": "5mm",
+        "spacing-footer": "5mm"
+
     },
     "pageTemplates": {
         "curriculum": {
             "frames": [
-                ["0%", "70%", "100%", "30%"],
-                ["0cm", "0cm", "49%", "70%"],
-                ["51%", "0cm", "49%", "70%"]
-            ]
+                ["0cm", "83%", "100%", "19%"],
+                ["0cm", "0cm", "50%", "85%"],
+                ["51%", "0cm", "50%", "85%"]
+            ],
+        "showHeader" : "true",
+        "showFooter" : "true"
         }
     },
     "embeddedFonts": [["OldStandard-Regular.ttf", "OldStandard-Bold.ttf", "OldStandard-Italic.ttf", "OldStandard-Bold.ttf"]],
@@ -34,11 +44,11 @@
             "fontSize": 24
         },
         "heading1": {
-            "fontSize": 16,
-            "spaceBefore": 20
+            "fontSize": 16
         },
         "bullet-list": {
-            "spaceAfter": 10
+            "colWidths": [5]
+
         },
         "note": {
             "borderPadding": [3,3,3,3],

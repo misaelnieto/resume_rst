@@ -3,181 +3,26 @@ Noe Misael Nieto Arroyo
 
 .. header::
 
-  http://www.noenieto.com/ | Mexicali B.C. | (686) 547 7677 | nnieto@noenieto.com
+  http://www.noenieto.com/ | Mexico | Mexicali B.C. | nnieto@noenieto.com
 
-I have a bachelor's degree in Electronics Engineering and I expect to earn a
-Master's degree in engineering by June 2018. As Engineer I've worked with data
-acquisition and idustrial instrumentation. Then I pursued a career as Software
-Engineering working as SysAdmin, backend & frontend developer, and DBA.
-During the last 10+ years I've been working almost exclusively with FLOSS
-software such as Linux, Python, Django, JavaScript, jQuery, PHP, PostgreSQL,
-MySql and SQLite, among others, but I also know my way around the Windows/SQL
-Server/ASP.net stack.      
-
-In my spare time I take care of some of my side projects. Also, I enjoy teching Python to whoever is interested.
-
-Education
----------
-
-* **June 2018**; Master's degree in Engineering, UABC Mexicali. *Estudio
-  experimental y vía   simulación de los materiales para celdas solares de
-  tercera generación*.
-
-- **September 2006**; Arizona State University; Data Acquisition training seminar by JACMET
-  group.
-
-- **September 2012**; Electronics Engineering, Instituto Tecnológico de Puebla.
-
-- **June 2000**; Computer Programmer technician diploma, Universidad Popular Autónoma del Estado de Puebla.
-
-Work Experience
----------------
-
-- **Social Reality** - **Sysadmin, DBA, backend developer**. 2015 ~ 2016.
-Working wit Linux, Apache, MySQL, PHP, Python, Puppet, Vagrant under high
-pressure.
-
-- **Valutech Outsourcing S.A. de C.V.** - *Sysadmin/DBA*. 2013 ~ 2015. Worked
-in the  datacenter with regular tasks ofmaintenance, backup and performace
-troubleshoting Windows Server, Linux and SQL Server.
-
-- **NNieto Consulting Services** - *Freelancer*
-
-  - This used to be my main business; Now it's only part time. But eventually
-    I might come back to freelancing.
-
-  - I started it on April 2011. I provided software development services and training. I worked with
-    different companies and intsitutions in Mexico and Argentina.
-
-    - **Homeviva**, an Argentinian startup in the construction
-      industry. My role here is as a full stack developer. *Key
-      technologies*: Linux, nginx, Python, Grok (first iterations
-      of the project), Pyramid, PostgreSQL, JSON and AngularJS. I've
-      been working for them since August 2011. *Website*:
-      http://www.homeviva.com.ar
-
-    - **Centro de Psiquiatría y Psicología Holokinética** (CPH). CPH is
-      based in Mexicali, Baja California, Mexico. It is a non-profit
-      organization that promotes Holokinetic Psychology and Unitary
-      Perception. I've been helping them to build their E-commerce
-      site for books, audios and DVD's. *Key technologies*: Linux,
-      Plone (First version of the site), Django (a new version of the
-      site, due in June 2013), PayPal. I've been working with them
-      since March 2010. 
-      *Website*: http://www.holokinesislibros.com/
-
-    - **Venddo**, a Mexican Startup based in Mexico City. They analyze
-      information in social networks to identify profiles of potential
-      customers. I've been working for as a backend developer since
-      March 2013. *Key technologies*: Python, SQLAlchemy, twitter API.
-      *Website*: http://venddo.com/
-
-    - **AlfaOmega Grupo Editor**. AlfaOmega is one of the
-      biggest publishers of technical books in Latin America. They
-      have offices in Mexico City, Colombia, Argentina and Spain. I
-      worked with them to port their e-learning platform from Plone 3
-      to Plone 4. I also gave them Plone development trainning courses
-      for their in-site developers. From March 2011 until May 2012.
-      *Website*: http://libroweb.alfaomega.com.mx/
-
-    - **Universidad Pedagógica Nacional**. Plone
-      migration consultant. May 2011. *Website*: http://www.upn.mx/
-
-    - **WAM - Ready2Fill**. Based on Oaxaca,
-      Mexico, Ready2Fill develops business solutions with free
-      software. I wrote a Python training course for their team of
-      engineers so they could start developing their solutions with
-      Django and Python. October 2011. *Website*: http://Ready2Fill.com/
-
-    - **Insignia Diseño**. Design agency from San Luis Potosí, México. I
-      developed their portfolio gallery. *Key technologies*: CakePHP,
-      jQuery, jQueryTools.
-      *Website*: http://insigniadiseno.com/portafolio/      
+I have a M.Eng from UABC Mexicali where I worked with simulation sofware for
+solar cells, and a B.Eng in Electronics from ITP, Puebla. I have experience
+working as SysAdmin (Linux, Windows), backend & frontend developer, DBA. I've
+been working almost exclusively with FLOSS software such as Linux (15+ years),
+Python (+10 years), JavaScript, PHP, PostgreSQL, MySql and SQLite, among
+others, but I also know my way around the Windows/SQL Server/ASP.net stack.
 
 
-- **iServices de México** - *Web/Python developer*
+Instructor and Speaker
+----------------------
 
-  - In charge of integration/development and maintenance
-    of their in-house LCMS systems. My activities involved Linux System
-    administration, project management, Web Software development,
-    Software engineering and maintenance with the Plone CMS and emergency
-    assistance in case of software failure.
+Every now and then I participate in events mainly related to Free/Open Source
+Software, either as a speaker, trainer or attendee.
 
-  - Time span: January 2009 until April 2011.
-
-  - Location: Puebla and Mexico City.
-
-- **Honeywell Aerospace de Mexico** - *Data Acquisition Engineer*
-
-  - As a Data Acquisition Engineer I was in charge of the commissioning and
-    operation of hardware and software. I also played a developer role for
-    in-house software tools. Also, I was specialist in pressure,
-    temperature, voltage, current and vibration measurements as well as video
-    over IP and networking. Our team was also in charge of assuring that
-    our instruments were always calibrated with traceability to the NIST and
-    always ready for use, that included dealing with purchasing and supply
-    chain departments.
-
-  - Wide experience in Video Over IP and Networking as a result of intern
-    projects.
-
-  - Time span: From May 2006 until December 2008
-
-  - Location: Mexicali, Phoenix.
-
-- **Gameloft S de RL** - *Multiplayer programmer*
-
-  - Implement test and deploy modifications of the multiplayer server (written
-    in C++) and multiplayer API used in networked games for mobile phones.
-
-  - Implement, test and deploy modifications needed to support specific models
-    of cellphones by the different game titles published by Gameloft.
-
-  - Time span: February to May, 2006.
-
-  - Location: Mexicali.
-
-- **Centro de ingenieria – Instituto Nacional de Astrofísica Óptica y
-  Electrónica** - *Internship. Embedded systems laboratory assistant*
-
-  - Work related to data acquisition, real time, tracking and control systems.
-
-  - Time span: 2006.
-
-  - Location: Tonanzintla (Puebla).
-
-- **FreeLance IT Consultant**
-
-  - Basic computer training and computer technician. Installation of voice and
-    data networks, independent software developer.
-
-  - Time span: 2000 – 2005
-
-  - Location: Puebla.
-    
-
-
-Skills
-------
-
-- **Electronics Engineering**
-    I used to be a hardware guy. I did fun stuff 
-    with data acquisition systems (Voltage, Current, Pressure, Fuel flow,
-    and Vibration) and some expensive toys from these manufacturers: Dewetron/Dewesoft,
-    Scanivalve, LEM, B&K, Ectron and Ametek, NI PXI, LDS Genesis.
-
-
-
-
-
-
-
-Training and Conferences
-------------------------
-
-- **X Jornada Académica, Social y Deportiva 2012** - *Nov. 12th-16th, Instituto Tecnológico de Oaxaca, Mexico*
-
-  - 20 hour python course for students of Software Engineering.
+- **Taller intensivo de Python** - November 4, 2017. 5 hours in Mexicali Baja California.
+ 
+- **X Jornada Académica, Social y Deportiva 2012** - *Nov. 12th-16th,
+  Instituto Tecnológico de Oaxaca, Mexico*; 20 hour python course for students of Software Engineering.
 
 - **Seminario de Aplicaciones de las Tecnologías de la Información y Comunicaciones** - 
   *Sept. 3rd-7th, Instituto Tecnológico de Puebla, Mexico*
@@ -187,26 +32,69 @@ Training and Conferences
   - Trainner. Five-hour Python course for newcomers. Attendants included students
     and teachers of the IT Academia of the ITP.
 
-- **PyCON US 2012** - *March 7th-15th, Santa Clara, CA.*
+- **FLISOL 2011** -  Introduction to the GStreamer multiedia Framework; April 9th, Puebla, Puebla; 
 
-  - Conference attendant and sprinter.
 
-  - Attended to the tutorial **DevOps for Python: Doing More With Less**
-     https://us.pycon.org/2012/schedule/presentation/286/
+Education
+---------
 
-- **FLISOL 2011** -  *April 9th, Puebla, Puebla*
+* **June 2018** (expected); Master's degree in Engineering, UABC Mexicali. *Estudio
+  experimental y vía   simulación de los materiales para celdas solares de
+  tercera generación*.
 
-  - Speaker. I talked a bit about the GStreamer Framework.
+- **September 2006**; Arizona State University; *Data Acquisition training seminar* by JACMET
+  group.
 
-- **PyCON US 2011** - *March 9th-17th, Atlanta, GA.*
+- **September 2012**; Electronics Engineering, Instituto Tecnológico de
+  Puebla. *Sistema de Vigilancia con Video sobre TCP/IP*
 
-  - Conference attendant and sprinter.
+- **June 2000**; Computer Programmer technician diploma, Universidad Popular Autónoma del Estado de Puebla.
 
-- **PyCON US 2010** - *March, Atlanta, GA.*
 
-  - Conference attendant and sprinter.
+Certifications
+--------------
 
-- **PyCON US 2009** - *March, Chicago, IL.*
+* SCRUM Master Accredited by International SCRUM Institute (May 2015).
 
-  - Conference attendant and sprinter.
 
+Work Experience
+---------------
+
+- **Social Reality** - *Sysadmin, DBA, Backend*; Mexicali (2015 ~ 2016).
+
+- **Valutech Outsourcing S.A. de C.V.** - *Sysadmin/DBA*; Mexicali (2013 ~ 2015).
+
+- **iServices de México** - *Web/Python developer*; Puebla (2009 ~ 2011).
+
+- **Honeywell Aerospace de Mexico** - *Data Acquisition Engineer*; Mexicali (2006 ~ 2008)
+
+- **Gameloft S de RL** - *Multiplayer programmer*; Mexicali (2006)
+
+- **Centro de ingenieria – Instituto Nacional de Astrofísica Óptica y
+  Electrónica** - *Internship. Embedded systems*; Puebla (2005)
+
+- **FreeLance & IT Consultant** Puebla, Mexico City, Oaxaca, Argentina (2000 ~ Now). 
+  Holokinesis Libros, Homeviva (Defunct),
+  Venddo, Universidad Pedagógica Nacional, WAM - Ready2Fill.    
+
+
+Open source contributions
+-------------------------
+
+On 2018 I participated in Google Summer of Code enablig DevSim to do `basic
+simulation of solar cells <https://github.com/misaelnieto/devsim_gsoc_2018>`_.
+
+On 2007 I self-published a `Gtk+3 programming manual in spanish <https://github.com/misaelnieto/programacion_gtk>`_, altough Gtk
+has gone trough a lot of chages, some parts are still relevant, so an updated
+version is on process.
+
+Besides that, I'm an occasional `FLOSS contributor <https://www.openhub.net/accounts/nnieto>`_ on `various projects and libraries <https://libraries.io/github/misaelnieto>`_.
+
+Links
+-----
+
+* `Homepage <http://www.noenieto.com>`_
+* `Linked-In <https://www.linkedin.com/in/noe-nieto-13529524>`_
+* `GitHub <https://github.com/misaelnieto/>`_
+* `Email <mailto:nnieto@noenieto.com>`_
+* `Twitter <https://twitter.com/misaelnieto_a>`_

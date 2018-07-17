@@ -6,7 +6,7 @@
   # stylesheets with -s
 
   pageSetup:
-    size: A4
+    size: Letter
     width: null
     height: null
     margin-top: 2cm
@@ -211,6 +211,10 @@
     attribution:
       parent: bodytext
       alignment: TA_RIGHT
+
+    image:
+      parent: bodytext
+      alignment: TA_CENTER
 
     figure:
       parent: bodytext
