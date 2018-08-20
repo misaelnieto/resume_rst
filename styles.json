@@ -22,18 +22,19 @@
         "showFooter" : "true"
         }
     },
-    "embeddedFonts": [["OldStandard-Regular.ttf", "OldStandard-Bold.ttf", "OldStandard-Italic.ttf", "OldStandard-Bold.ttf"]],
+    "embeddedFonts": [["Lato-Light.ttf", "Lato-Bold.ttf", "Lato-Italic.ttf", "Lato-Medium.ttf"]],
     "fontsAlias" : {
-        "stdFont": "OldStandard-Regular",
-        "stdBold": "OldStandard-Bold",
-        "stdItalic": "OldStandard-Italic"
+        "stdFont": "Lato-Light",
+        "stdBold": "Lato-Medium",
+        "stdItalic": "Lato-Italic"
     },
     "styles" :{
         "abstract" : {
             "alignment": "TA_CENTER"
         },
         "normal" : {
-            "fontSize": 10
+            "fontSize": 10,
+            "textColor": "#828282"
         },
         "blockquote": {
             "alignment": "TA_CENTER",
@@ -41,7 +42,8 @@
             "spaceAfter": 80
         },
         "title": {
-            "fontSize": 24
+            "fontSize": 24,
+            "fontName": "Lato-Light"
         },
         "heading1": {
             "fontSize": 16
